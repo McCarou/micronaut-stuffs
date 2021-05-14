@@ -1,0 +1,10 @@
+micronaut:
+  application:
+    name: micronautRest
+endpoints:
+  beans:
+    enabled: true
+    sensitive: false
+  routes:
+    enabled: true
+    sensitive: false
